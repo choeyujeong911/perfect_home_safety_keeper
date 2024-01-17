@@ -1,0 +1,18 @@
+DESCRIPTION:
+House Spiders are small eight legged creatures that commonly nest near or inside homes.
+They are known for building sticky thread-like webs to trap small flies or other insects, which they use for food.
+Homeowners commonly report web sightings.
+[설명]
+집거미는 8개의 다리를 가진 작은 생물로 집 근처 혹은 실내에 거미줄을 치고 삽니다.
+그들은 주식인 날파리나 다른 벌레를 잡기 위해 끈끈한 실같은 거미줄을 치는 것으로 알려져 있습니다.
+보통 거미줄을 목격했다는 보고가 들어옵니다.
+
+DANGER:
+House Spiders can bite humans when threatened, but their venom is not strong enough to harm a human, and they will often keep to themselves if left to their own devices.
+Their tendency to eat flies, bees, and other pests make them an excellent pest-deterrent, and their presence keeps some larger pests from moving in.
+[피해]
+집거미는 위협을 받으면 사람을 물기도 하지만, 독이 인간에게 치명적이지는 않습니다.
+그리고 그들은 종종
+
+SOLUTION:
+House Spiders can be removed with common pesticides, though it is advised to not remove House Spiders unless strictly necessary.

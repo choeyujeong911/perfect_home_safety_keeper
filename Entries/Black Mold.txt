@@ -1,0 +1,22 @@
+DESCRIPTION:
+Black Mold is a common household fungus known to grow in moist, warm locations.
+It appears frequently as small black spots.
+Homeowners with black mold infestations frequently report a musty smell, allergic reactions or breathing problems.
+[설명]
+검은 곰팡이는 일반적으로 가정에서 발견되는 균류로, 온습한 환경에서 발생합니다.
+주로 작고 검은 점들이 모인 형태로 나타납니다.
+검은 곰팡이에 시달리는 가정에서는 주로 퀴퀴한 냄새와 호흡기 알러지가 보고됩니다.
+
+DANGER:
+Black Mold is not immediately dangerous to humans, but enough of it can cause damage to household integrity, making it a long term danger.
+It also is known to cause allergic reactions or breathing problems.
+[피해]
+검은 곰팡이는 인간에게 직접적으로 피해를 주지는 않으나, 충분히 가정의 청결에 유해해 장기적인 위험을 초래할 수 있습니다.
+또한 알러지 및 호흡기 질환의 원인으로도 알려져 있습니다.
+
+SOLUTION:
+Black Mold can be removed with regular cleaning supplies and maintenance, and can be prevented with good ventilation in high-moisture areas of the home.
+For more serious black mold infestations, it is advised to utilize HSH's Fungal Cleanup Service.
+[대응]
+검은 곰팡이는 일반적인 청소와 관리로 제거할 수 있으며, 특히 축축한 공간의 경우 자주 환기하는 것으로 예방이 가능합니다.
+검은 곰팡이가 창궐했을 경우, 우리 HSH사의 곰팡이 제거 서비스를 활용할 것을 권해드립니다.

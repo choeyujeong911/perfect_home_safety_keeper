@@ -1,0 +1,22 @@
+DESCRIPTION:
+Cockroaches are small insects known to be common household pests.
+Homeowners with a cockroach infestation commonly report seeing droppings that appear similar to coffee grounds.
+[설명]
+바퀴벌레는 작은 곤충으로, 가정에서 흔하게 발견되는 해충입니다.
+바퀴벌레가 출몰한 가정에서는 커피 찌꺼기와 비슷한 배설물이 흔히 보고됩니다.
+
+DANGER:
+Cockroaches are no immediate danger to humans, but are known disease carriers.
+They frequently inhabit kitchens and other areas used to prepare food, increasing the risk of disease.
+[피해]
+바퀴벌레는 사람에게 직접적으로 위협이 되는 곤충은 아니나, 질병을 옮기는 것으로 알려져 있습니다.
+그들은 흔히 음식이 존재하는 주방과 같은 영역에 서식하여 병을 옮깁니다.
+
+SOLUTION:
+Cockroaches are resilient, fast breeders and are notoriously difficult to remove.
+The use of cockroach-specific pesticides that are deadly to humans is not recommended.
+It is advised to utilize HSH's Pest Removal Service.
+[대응]
+바퀴벌레는 회복력과 번식력이 좋아 박멸이 어렵기로 악명이 높습니다.
+바퀴벌레 전용 살충제는 인간에게도 치명적이기 때문에 사용하지 않는 편이 좋습니다.
+우리 HSH사의 해충 박멸 서비스에 맡길 것을 권장합니다.

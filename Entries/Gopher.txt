@@ -1,0 +1,22 @@
+DESCRIPTION:
+Gophers are small, brown furry mammals with enlarged front teeth that are known for living in burrows.
+They can become a pest to homeowners when they choose to burrow on their property, commonly damaging gardens.
+[설명]
+땅다람쥐는 계속 자라나는 앞니를 가진 작고 갈색의 포유류로, 땅굴에 사는 것으로 알려져 있습니다.
+보통 마당에 굴을 파 가정에 재산상의 피해를 주므로 유해한 동물로 취급될 수 있습니다.
+
+DANGER:
+Gophers are capable of biting humans and spreading deadly diseases such as rabies, so caution around them is advised.
+Do not attempt to approach a Gopher directly.
+[피해]
+땅다람쥐는 사람을 물어 광견병과 같이 치명적인 질병을 옮길 수 있으므로, 경계할 것이 권장됩니다.
+땅다람쥐에게 접근을 시도하지 마십시오.
+
+SOLUTION:
+To evict Gopher from their burrows, a variety of natural deterrents can be placed around your property.
+Growing plants that repel gophers, such as sage or thyme, can also serve to persuade Gophers to move away from your property.
+For more persistent infestations, it is advised to utilize HSH's Pest Removal Service.
+[대응]
+땅다람쥐를 굴에서 쫓아내기 위해서 마당에 여러가지 장치를 해둘 수 있습니다.
+정원에 세이지나 타임 같은 땅다람쥐 퇴치 식물을 기르는 것도 도움이 될 수 있습니다.
+피해가 계속된다면 우리 HSH사의 해충 박멸 서비스를 활용할 것을 권합니다.

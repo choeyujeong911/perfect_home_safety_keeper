@@ -1,0 +1,19 @@
+DESCRIPTION:
+House Flies are small flying creatures that are known to commonly reside inside homes and frequently surround those whose death is impending.
+Homeowners afflicted with House Flies commonly report buzzing sounds and thoughts of decay.
+[설명]
+집파리는 실내 혹은 사체 주변에 주로 머무는 작은 날벌레입니다.
+집파리로 고통받는 가정에서는 주로 윙윙거리는 소리와 부패에 대한 의심이 보고됩니다.
+
+DANGER:
+House Flies are no immediate danger to humans, but are known disease carriers.
+They frequently inhabit kitchens and other areas used to prepare food, increasing the risk of disease.
+[피해]
+집파리는 인간에게 직접적으로 해를 끼치지는 않지만, 질병을 옮기는 것으로 알려져 있습니다.
+그들은 흔히 음식이 존재하는 주방과 같은 영역에 서식하여 병을 옮깁니다.
+
+SOLUTION:
+House Flies can be removed with common pesticides.
+For larger or more frequent infestations, it is advised to utilize HSH's Pest Removal Services.
+집파리는 일반 살충제로 박멸이 가능합니다.
+피해가 지속된다면 우리 HSH사의 해충 박멸 서비스의 도움을 받을 것을 권합니다.

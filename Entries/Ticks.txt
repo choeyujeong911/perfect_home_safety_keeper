@@ -1,0 +1,20 @@
+DESCRIPTION:
+Ticks are very small arachnids known to feed on human or animal blood and most commonly found in tall grass.
+They latch onto their hosts, often unseen, and burrow their head into the flesh of their victim.
+Hosts will often report symptoms of illness, such as fevers, headaches, and chills.
+[설명]
+진드기는 거미목에 속하는 아주 작은 생물로, 인간을 포함한 동물의 피가 주식이며 잔디밭에서 주로 발견됩니다.
+그들은 눈에 보이지 않게 사람에게 들러붙어서 머리를 박아넣어 파고듭니다.
+물리면 발열과 두통, 오한과 같은 증상을 호소하게 됩니다.
+
+DANGER:
+Ticks are incredibly dangerous to humans thanks to their ability to directly spread various diseases to their hosts such as Lyme Disease, and their potential to provoke other, more dangerous household pests.
+[피해]
+진드기는 라임병과 같이 다양한 질병을 직접 옮기고, 가정에 더 위험한 해충을 불러들일 가능성을 지니고 있기 때문에 인간에게 매우 위험합니다.
+
+SOLUTION:
+Although you can remove Ticks once they have invaded your home with common pesticides, it is too late to prevent any diseases they have transmitted.
+Instead, prevent Ticks from entering your household in the first place by treating the surrounding area with pesticides and keeping a tidy, weed-free lawn.
+[대응]
+집에서 발견함과 동시에 일반적인 살충제를 사용해 박멸할 수는 있지만, 그들이 옮기는 질병까지 막기는 힘듭니다.
+대신, 살충제를 뿌리고 잡초를 정리하여 잔디밭을 깔끔하게 유지하는 것으로 진드기의 유입을 애초에 방지합니다.
