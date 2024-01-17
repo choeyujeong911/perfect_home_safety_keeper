@@ -20,3 +20,5 @@ It is advised to utilize HSH's Pest Removal Service.
 바퀴벌레는 회복력과 번식력이 좋아 박멸이 어렵기로 악명이 높습니다.
 바퀴벌레 전용 살충제는 인간에게도 치명적이기 때문에 사용하지 않는 편이 좋습니다.
 우리 HSH사의 해충 박멸 서비스에 맡길 것을 권장합니다.
+
+Client: John

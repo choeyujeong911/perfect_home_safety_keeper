@@ -1,0 +1,19 @@
+DESCRIPTION:
+False Beets are creatures with a beet-like appearance that are known to trick gardeners into harvesting and eating them by disguising themselves among their vegetables.
+[설명]
+
+
+DANGER:
+False Beets are harmless unless eaten by a human, at which point they will take root in the human's stomach, feeding off its nutrients for its lifetime.
+This can cause digestive issues and potential back problems over the course of the human's life.
+[피해]
+
+
+SOLUTION:
+False Beets only find themselves in gardens that grow beets.
+If you do not wish to contend with False Beet, it is advised to avoid growing beets.
+A swallowed False Beet cannot be removed without killing its host.
+[대응]
+
+
+Client: Ash

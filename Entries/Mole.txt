@@ -1,13 +1,26 @@
 DESCRIPTION:
 Moles are small, dark brown furry mammals with pointed, pink muzzles that are known for living in deep burrows.
 Their burrows tend to look like volcano shaped mounds, and they are known to eat insects.
+[설명]
+두더지는 뾰족한 분홍색의 주둥이를 가진 어두운 갈색의 작은 포유류로, 깊은 땅굴에 삽니다.
+그들의 땅굴은 화산 모양의 흙더미이며, 벌레를 먹는다고 알려져 있습니다.
 
 DANGER:
 Moles are capable of biting humans and spreading deadly diseases such as rabies, so caution around them is advised.
 They also have close relations to the ones beneath the soil, which can cause further danger if provoked.
+[피해]
+두더지는 사람을 물어 광견병과 같이 치명적인 질병을 옮길 수 있으므로, 경계할 것이 권장됩니다.
+그들은 흙 아래의 생물들과도 밀접한 관계를 가지며 자극을 받으면 더 큰 위험을 초래할 수도 있습니다.
 
 SOLUTION:
 Moles are persistent, and cannot usually be persuaded to leave on their own.
 However, Moles can be trapped and removed manually using a variety of common humane mammal traps.
 WARNING: NEVER KILL A MOLE.
 One can also utilize HSH's Pest Removal Service.
+[대응]
+두더지는 끈질기고, 대부분 스스로 떠나지 않습니다.
+하지만, 두더지는 일반 포획틀을 사용해 직접 잡아서 쫓아버릴 수 있습니다.
+경고: 절대로 두더지를 죽이지 마십시오.
+우리 HSH사의 해충 박멸 서비스도 이용 가능합니다.
+
+Client: Hank

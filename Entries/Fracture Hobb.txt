@@ -1,0 +1,21 @@
+DESCRIPTION:
+Fracture Hobbs are a subspecies of Hobb that are known to cause cracks and fractures in the walls of the homes they inhabit.
+They are physically similar to other Hobbs in stature and size, with the exception of generally longer, wilder hair locs.
+They also bear a false face.
+[설명]
+
+
+DANGER:
+Fracture Hobbs are not dangerous on their own, but the fratures and cracks they cause can lead to foundational issues in the home.
+Like any other Hobb, they are also capable of metamorphosing.
+[피해]
+
+
+SOLUTION:
+Fracture Hobbs cannot be removed once they nest.
+To prevent further danger, measures to prevent metamorphosis should be taken as soon as possible.
+It is advised to leave out a slice of any kind of cheese each night before going to bed.
+[대응]
+
+
+Client: Ashley

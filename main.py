@@ -2,7 +2,7 @@ class Clients:
     def __init__(self):
         # DICT { client's name: hazard }
         self.clients_dict = {'Null': 'No-Such-Name',
-                             'Fred': 'Ant',
+                             'Fred': 'Carpenter Ants',
                              'Belinda': 'Attic Gnome',
                              'Jay': 'Autumn Vines',
                              'Paul': 'Bed Bugs',
@@ -10,7 +10,7 @@ class Clients:
                              'Harvey': 'Bed Teeth',
                              'Mike': 'Black Mold',
                              'Gary': 'Boggart',
-                             'John': 'Cockroach',
+                             'John': 'Cockroaches',
                              'Hunnigan': 'Common Hobb',
                              'Robert': 'Common Hobb',
                              'Dan': 'Desk Hobb',
@@ -47,7 +47,8 @@ class Clients:
                              'Edward': 'Troll',
                              'Kyle': 'Unicorn Fungi',
                              'Carla': 'Whistling Fungi',
-                             'Brittany': 'Wine Sprite'
+                             'Brittany': 'Wine Sprite',
+                             'Prank-Call': 'Just-Prank-Call'
                              }
 
     def how_can_i_help_u(self, client: str):

@@ -1,0 +1,10 @@
+CURRENT CALLER: CAROL
+Transcription:
+
+Hello, it's Carol again, your supervisor.
+I'm calling to let you know that you have been granted access to additional Household Hazard information.
+Please be aware that this information is confidential, and not to be shared with anyone outside of HSH.
+If you diagnose one of these hazards, we will be providing only information to the clients that is pertinent to addressing their cibcerns, nothing more.
+Thank you.
+
+Button: CLOSE

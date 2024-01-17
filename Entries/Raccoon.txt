@@ -1,12 +1,24 @@
 DESCRIPTION:
 Raccoons are small nocturnal mammals with grey and brown fur known for their tendency to rummage through garbage cans or nest in attics.
 Homeowners infested with Raccoons often report frequent garbage spills, or clattering sounds at night.
+[설명]
+라쿤(미국너구리)은 갈색과 회색의 소형 야행성 포유류로, 쓰레기통이나 다락방을 뒤지는 습성이 있습니다.
+라쿤에게 시달리는 가정에서는 종종 엎어진 쓰레기통 혹은 밤에 들려오는 덜그럭덜그럭 소리가 보고됩니다.
 
 DANGER:
 Raccoons are capable of biting humans and spreading deadly diseases such as rabies, so caution around them is advised.
-Additionally, their feces can contain deadly parasites which, if accidentally inhaled or ingested, can cause progressive neurogical damage to humans, or eventual death.
+Additionally, their feces can contain deadly parasites which, if accidentally inhaled or ingested, can cause progressive neurological damage to humans, or eventual death.
+[피해]
+라쿤은 사람을 물어 광견병과 같이 치명적인 질병을 옮길 수 있으므로, 경계할 것이 권장됩니다.
+더군다나 그들의 배설물에는 흡입하거나 섭취할 시 신경계를 손상시켜 죽음에 이르게하는 위협적인 기생충이 들어있을 수도 있습니다.
 
 SOLUTION:
 Raccoons are quite intelligent, and are thus quite tricky to remove from a home safety.
 Preventative measures include securing trash cans, and blocking any potential outdoor access to attics.
 It is highly advised to utilize HSH's Pest Removal Service.
+[대응]
+라쿤은 상당히 똑똑하여 쫓아내기가 까다롭습니다.
+방역 작업으로 쓰레기통을 관리하고 외부와 연결되는 다락방의 통로를 막는 등의 조치가 가능합니다.
+우리 HSH사의 해충 박멸 서비스를 이용할 것을 강력히 권고합니다.
+
+Client: -

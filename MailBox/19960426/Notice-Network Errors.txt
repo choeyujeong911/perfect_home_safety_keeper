@@ -1,0 +1,15 @@
+Subject Line: Notice - Network Errors
+From: HSH Corporate
+
+Attention Call Team.
+Our Network Team is migrating our backend services over to a new hosting provider this week,
+so you may experience some occasional network errors over the next few days.
+
+Please be sure you are studying your information entries carefully while you still have access in case the network goes down while you are on the phone with a client.
+You will still be expected to provide accurate answers to our callers regardless of the network's status.
+
+Sincerely,
+
+HSH Corporate
+
+[본문]

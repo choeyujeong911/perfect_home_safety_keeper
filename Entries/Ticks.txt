@@ -18,3 +18,5 @@ Instead, prevent Ticks from entering your household in the first place by treati
 [대응]
 집에서 발견함과 동시에 일반적인 살충제를 사용해 박멸할 수는 있지만, 그들이 옮기는 질병까지 막기는 힘듭니다.
 대신, 살충제를 뿌리고 잡초를 정리하여 잔디밭을 깔끔하게 유지하는 것으로 진드기의 유입을 애초에 방지합니다.
+
+Client: Tim

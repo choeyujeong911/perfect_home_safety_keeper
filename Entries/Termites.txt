@@ -2,11 +2,21 @@ DESCRIPTION:
 Termites are small insects known for consuming decaying plant material, particularly wood.
 Homeowners with a termite infestation often report peeling paint, small holes in the drywall, or squeaky floorboards.
 [설명]
+흰개미는 썩은 나무를 갉아먹는 작은 곤충입니다.
+흰개미에 시달리는 가정에서는 페인트칠 벗겨짐과 벽에 난 작은 구멍들, 삐걱거리는 바닥이 종종 보고됩니다.
 
 DANGER:
 Termites are harmless to humans by themselves, but the damage they can cause to a house's structural integrity can be deadly long-term, and should be removed as soon as possible.
+[피해]
+흰개미 자체는 인간에게 무해하나, 건축물의 골조에 장기적으로 영항을 미칠 수 있으므로 최대한 빠르게 박멸해야 합니다.
 
 SOLUTION:
 Termites can be removed using common pesticides, but the treatment must be thorough and destroy the entire colony.
 Otherwise, they will quickly repopulate and resume their activity.
 It is highly advised to utilize HSH's Professional Termite Removal services.
+[대응]
+흰개미는 일반적인 살충제로 박멸 가능하나, 뒷처리가 철저해야 하며 집락 자체를 파괴해야만 합니다.
+그렇지 않으면, 그들은 빠르게 개체수를 복구하여 활동을 계속해나갈 것입니다.
+우리 HSH사의 해충 박멸 서비스를 이용할 것을 강력히 권고합니다.
+
+Client: Wanda

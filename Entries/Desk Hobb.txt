@@ -1,0 +1,22 @@
+DESCRIPTION:
+Desk Hobbs are a subspecies of Hobb that are known to inhabit desks, vanities and other similar structures.
+They regularly like to tidy their homes, and will frequently sort and order materials in the desk to their liking.
+They are physically similar to other Hobbs, but are generally much smaller and have raspy, loose hair.
+They do not bear a false face.
+[설명]
+
+
+DANGER:
+Desk Hobbs are not dangerous to humans if left unprovoked.
+Like any other Hobb, they are also capable of metamorphosing.
+[피해]
+
+
+SOLUTION:
+Desk Hobbs cannot be removed once they nest.
+To prevent further danger, measures to prevent metamorphosis should be taken as soon as possible.
+It is advised to leave bread crumbs on the desk each night before going to bed.
+[대응]
+
+
+Client: Dan

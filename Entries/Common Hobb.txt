@@ -1,0 +1,22 @@
+DESCRIPTION:
+Common Hobbs are the most common species of Hobb found in the household.
+They are small humanoid creatures with grey, burlap-like skin and small, vertical tufts of hair on their head.
+They have no false face.
+They are known for their tendency to consume dust, dirt, and common sticky substances found on floors and dishes, cleaning them in the process.
+They generally only come out at night.
+[설명]
+
+
+DANGER:
+Hobbs are not dangerous to humans on their own.
+If provoked, however, they are capable of mischievous acts, and metamorphosis.
+[피해]
+
+
+SOLUTION:
+Hobbs cannot be compelled to leave on their own once nested in an home.
+Instead, one should take measures to prevent provoking metamorphosis by leaving out a bowl of cream or milk at night.
+[대응]
+
+
+Client: Robert, Hunnigan

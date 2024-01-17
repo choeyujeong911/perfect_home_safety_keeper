@@ -1,0 +1,20 @@
+DESCRIPTION:
+Pipe Hobbs are a subspecies of Hobb that are known for making homes inside tube-like structures such as pipes.
+They bear no false face, and are much smaller than most Hobbs.
+They will commonly emerge from their home at night and consume any dirt, grime, and hair in the surrounding area, cleaning it in the process.
+[설명]
+
+
+DANGER:
+Pipe Hobbs are not a direct danger to humans, but their physical presence can sometimes cause leaks or clogs over time.
+If provoked, they are also capable of mischievous acts, and metamorphosis.
+[피해]
+
+
+SOLUTION:
+Pipe Hobbs cannot be compelled to leave on their own once nested.
+Instead, one should take measures to prevent provoking metamorphosis by leaving out a clipping of hair near their homes at night.
+[대응]
+
+
+Client: -

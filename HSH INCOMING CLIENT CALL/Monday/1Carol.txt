@@ -1,0 +1,13 @@
+CURRENT CALLER: CAROL
+Transcription:
+
+Welcome to Home Safety Hotline, new employee.
+My name is Carol, and I'll be acting as your Supervisor during your time here at HSH.
+Before your begin your first day here, let me tell you a bit about how things work here.
+You are an HSH Responder, as such it is your job to learn about various household hazards so you can answer the questions of our callers intelligently.
+When a client calls, answer the call and listen carefully to their concerns.
+When you've diagnosed their issue, submit the corresponding Household Hazard, and we'll forward them safety instructions to address their problem.
+Welcome to the HSH family.
+I'm sure we'll talk again soon.
+
+Button: CLOSE

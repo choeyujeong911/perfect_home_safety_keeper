@@ -1,0 +1,19 @@
+DESCRIPTION:
+Bed Teeth are a rare kind of household fungus known for growing in small, cone-like shapes on the underside of bed sheets, blankets, or comforters.
+Homeowners infested with Bed Teeth often report mild discomforts when sleeping such as ticking or itching, and more rarely slimy adicic residue on their skin.
+[설명]
+
+
+DANGER:
+Bed Teeth are not directly harmful to most humans, given their brief sleeping schedules.
+However, they tend to gradually grow sharper over time if left untreated, which can lead to infections in the open wounds they cause.
+[피해]
+
+
+SOLUTION:
+To prevent the growth of Bed Teeth, bedsheets and blankets should be washed regularly, and inspected for rare, more persistent growths.
+Infested covers should be scrubbed thoroughly, or disposed of entirely.
+[대응]
+
+
+Client: Harvey

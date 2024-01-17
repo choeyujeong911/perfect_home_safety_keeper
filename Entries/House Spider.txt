@@ -8,11 +8,17 @@ Homeowners commonly report web sightings.
 보통 거미줄을 목격했다는 보고가 들어옵니다.
 
 DANGER:
-House Spiders can bite humans when threatened, but their venom is not strong enough to harm a human, and they will often keep to themselves if left to their own devices.
+House Spiders can bite humans when threatened, but their venom is not strong enough to harm a human,
+and they will often keep to themselves if left to their own devices.
 Their tendency to eat flies, bees, and other pests make them an excellent pest-deterrent, and their presence keeps some larger pests from moving in.
 [피해]
 집거미는 위협을 받으면 사람을 물기도 하지만, 독이 인간에게 치명적이지는 않습니다.
-그리고 그들은 종종
+그리고 그들은 가만히 두면 거미줄에 홀로 얌전히 있을 것입니다.
+파리와 벌과 같은 벌레들을 먹음으로써 해충 방지 효과를 보이며, 그들의 존재 자체가 더 심각한 해충의 침입을 막아줍니다.
 
 SOLUTION:
 House Spiders can be removed with common pesticides, though it is advised to not remove House Spiders unless strictly necessary.
+[대응]
+집거미는 일반적인 살충제로 박멸 가능하지만, 정말 필요한 경우가 아니라면 박멸하지 않는 것이 좋습니다.
+
+Client: -

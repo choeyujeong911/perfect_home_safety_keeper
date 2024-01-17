@@ -1,0 +1,21 @@
+DESCRIPTION:
+House Fires are rapid combustion reactions that can occur inside a home.
+They are often caused by accident when cooking, or on purpose by more malicious household pests.
+Homeowners affected by House Fires commonly report the smell of burning.
+[설명]
+
+
+DANGER:
+House Fires can cause severe damage to a human's skin, such as burns, and can even result in death.
+It can also produce Carbon Monoxide, which is deadly to humans.
+As such, its removal from a home should be made an immediate priority.
+[피해]
+
+
+SOLUTION:
+To remove a House Fire from a home, one can utilize specially equipment, such as Fire Extinguishers, to snuff out the flames, or else large enough qu antities of water.
+For large fires, it is advised to exit the home and utilize HSH's Fire Removal Services.
+[대응]
+
+
+Client: -

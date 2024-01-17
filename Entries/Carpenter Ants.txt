@@ -18,3 +18,5 @@ It is advised to utilize HSH's Pest Removal Service.
 [대응]
 일반적인 살충제로도 박멸이 가능하지만, 빠른 번식 속도 때문에 개미집의 위치를 파악하는 것이 우선입니다.
 우리 HSH사의 해충 박멸 서비스를 활용할 것을 권합니다.
+
+Client: Fred
