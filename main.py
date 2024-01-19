@@ -40,6 +40,7 @@ class Clients:
                              'Howard': 'Spriggan',
                              'Patrice': 'Sprig Tree',
                              'Reed': ['Stair Slug', 'Wood Secretions'],
+                             'David': 'Stair Slug',
                              'Sheila': 'Tea Sprite',
                              'Tim': 'Ticks',
                              'Wanda': 'Termites',
