@@ -16,4 +16,4 @@ After the Slug has deheydrated itself, you can dispose of its body.
 [대응]
 
 
-Client: Reed
+Client: Reed, David
