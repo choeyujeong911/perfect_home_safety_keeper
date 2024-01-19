@@ -1,0 +1,20 @@
+DESCRIPTION:
+False Rose Bushes are large plant-like creatures that most commonly take on the appearance of a Red Rose Bush.
+In place of roots, these creatures have two small humanoid feet that they use to chase down prey.
+Homeowners with False Rose Bushes sometimes report missing pets or children.
+[설명]
+
+
+DANGER:
+False Rose Bushes pose incredible danger to homeowners with children or pets, as their diet consists of small mammals, and they are known to be fast and efficient hunters.
+Homeowners without children or pets face a reduces risk, as they cannot swallow whole anything larger than themselves.
+[피해]
+
+
+SOLUTION:
+To remove a False Rose Bush from a garden they have inhabited, it is advised to keep children or pets from venturing outside within its hunting range for an extended period.
+If s False Rose Bush goes more than one month without eating, it will move on to new territory on its own.
+[대응]
+
+
+Client: -

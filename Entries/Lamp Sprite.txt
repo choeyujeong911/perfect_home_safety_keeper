@@ -1,0 +1,21 @@
+DESCRIPTION:
+Lamp Sprites are a common subspecies of Sprite that make their homes inside lamp fixtures.
+They are known for causing the lamps they inhabit to flicker or burn hotter, sometimes causing a burning smell in the home.
+[설명]
+
+
+DANGER:
+Lamp Sprites are not dangerous to humans unless provoked.
+Do not, under any circumstances, turn off the lamp or attempt to reach your hand inside the lamp when actively inhabited.
+[피해]
+
+
+SOLUTION:
+Lamp Sprites will leave on their own once their lamp of choice goes out on its own.
+At this point, they will attempt to seek out a new lamp.
+To prevent a Lamp Sprite from re-homing itself, ensure all household lamps are turned off until the expiration period.
+When the Lamp Sprite fails to find an active lamp, it will leave the home on its own.
+[대응]
+
+
+Client: Andy

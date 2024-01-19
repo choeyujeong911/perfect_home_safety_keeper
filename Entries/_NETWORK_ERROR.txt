@@ -1,0 +1,19 @@
+DESCRIPTION:
+NETWORK ERRORL This entry could not be loaded.
+This is likely due to a temporary HSH network error.
+Please try again later.
+[설명]
+
+
+DANGER:
+NETWORK ERRORL This entry could not be loaded.
+This is likely due to a temporary HSH network error.
+Please try again later.
+[피해]
+
+
+SOLUTION:
+NETWORK ERRORL This entry could not be loaded.
+This is likely due to a temporary HSH network error.
+Please try again later.
+[대응]

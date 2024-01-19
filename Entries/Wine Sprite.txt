@@ -1,0 +1,20 @@
+DESCRIPTION:
+Wine Sprites are a subspecies of sprite that are known for consuming wine.
+They are small, large-eyed winged creatures with translucent skin that often appears red while they are feeding.
+They have a long proboscis that they use to drink.
+Homeowners infested with Wine Sprites commonly report broken glasses and their wine having a rotten taste and smell.
+[설명]
+
+
+DANGER:
+Wine Sprites are not directly dangerous to humans, but they are known to spread various deadly diseases, including the fatal Fae Flu, and should be removed as soon as possible.
+[피해]
+
+
+SOLUTION:
+Wine Sprites can be removed with various common household pesticides and traps, provided they are baited with wine.
+To avoid future infestations, be sure to always clean wine glasses and containers immediately after use.
+[대응]
+
+
+Client: Brittany

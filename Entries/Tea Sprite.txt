@@ -1,0 +1,18 @@
+DESCRIPTION:
+Tea Sprites are a subspecies of sprite that are known to feed off of tea and tea leaf residue.
+Homeowners infested with Tea Sprites commonly report leaf-like droppings, and sounds of fluttering near kitchens.
+[설명]
+
+
+DANGER:
+Tea Sprites are not directly dangerous to humans, but they are known to spread various deadly diseases, including the fatal Fae Flu, and should be removed as soon as possible.
+[피해]
+
+
+SOLUTION:
+Tea Sprites can be removed with various common household pesticides and traps, provided they are baited with tea leaves.
+To avoid future infestations, be sure to always clean tea cups, kettles, and mugs after use.
+[대응]
+
+
+Client: Sheila

@@ -1,0 +1,19 @@
+DESCRIPTION:
+Mirror Nymphs are a subspecies of Nymph that are known for stealing the likeness of homeowners and passerbys.
+They are generally small, faceless and voiceless humanoids carrying a large mirror that they beckon others to look into.
+Homeowners afflicted by Mirror Nymphs commonly report not being able to recognize their own face.
+[설명]
+
+
+DANGER:
+Mirror Nymphs, although a nuisance, are not a direct danger to humans.
+[피해]
+
+
+SOLUTION:
+Mirror Nymphs will wander to different locations provided nobody looks into their mirror.
+Affected homeowners can restore their likeness by catching the Mirror Nymph and breaking its mirror with an iron implement. 
+[대응]
+
+
+Client: Howie

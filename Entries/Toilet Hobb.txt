@@ -1,0 +1,21 @@
+DESCRIPTION:
+Toilet Hobbs are a subspecies of Hobb that are known for homing inside toilets.
+They bear false faces, and have two separate clumps of wispy hair on each side of their heads.
+Like most Hobbs, they tend to clean their homes when they are active at night, keeping the toilet they inhabit nearly spotless.
+[설명]
+
+
+DANGER:
+Toilet Hobbs are not dangerous on their own, but their physical presence within the toilet they inhabit may result in plumbing problems over time such as leaks or clogs.
+Like any other Hobb, they are also capable of metamorphosing.
+[피해]
+
+
+SOLUTION:
+Toilet Hobbs cannot be removed once they nest.
+To prevent further danger, measures to prevent metamorphosis should be taken as soon as possible.
+It is advised to leave an egg near the toilet each night before going to bed.
+[대응]
+
+
+Client: -

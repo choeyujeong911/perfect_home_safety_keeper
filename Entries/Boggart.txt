@@ -1,0 +1,22 @@
+DESCRIPTION:
+Boggarts is the general term for a metamorphosed Hobb.
+They are large, hairy humanoids between 6 to 7 feet tall, and bear fairly convincing false faces.
+They are known for causing household accidents such as flooding, fires, or electric outages.
+They also frequently observe their targets while they sleep.
+[설명]
+
+
+DANGER:
+Boggarts are extremely dangerous to humans and pets, due to their malicious nightly household activities which can often cause injury or death.
+They also react very violently when seen by humans, but thankfully these instances are rare as they excel at staying hidden.
+[피해]
+
+
+SOLUTION:
+Do not under any circumstances refer to an active Boggart by any name.
+Once you become aware of its presence, simply vacate the premises.
+Provided you do not speak of the Boggart at any time, in any fashion, it will remain in its original location.
+[대응]
+
+
+Client: Gary
