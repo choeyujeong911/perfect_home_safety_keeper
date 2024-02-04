@@ -1,0 +1,20 @@
+DESCRIPTION:
+Seedlings are small insectoid creatures about the size of an aphid.
+They are known for burrowing in outdoor planters or gardens, feeding off the roots of nearby weeds.
+[설명]
+
+
+DANGER:
+Though their weed-killing lifestyles can make them useful for gardeners, Seedlings are extremely territorial and react violently to anything competing for their food source.
+** Never remove a weed from a Seedling-infested garden. **
+They are known to compel competitors to commit violent acts on themselves or others.
+[피해]
+
+
+SOLUTION:
+To remove Seedlings from a garden, one should not go near their established feeding grounds.
+Instead, one should use a hose, sprinklers, or similar ranged devices to over-water and drown out the Seedlings from afar.
+[대응]
+
+
+Client: -

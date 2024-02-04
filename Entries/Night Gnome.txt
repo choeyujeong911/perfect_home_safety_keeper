@@ -1,0 +1,19 @@
+DESCRIPTION:
+Night Gnomes are small, hairy creatures with a pointed head.
+They are known for their tendency to enter the sleeping quarters of humans to watch them while they sleep.
+Homeowners affected by Night Gnomes frequently report sighting them in the middle of the night, or report heavy breathing sounds during late hours.
+[설명]
+
+
+DANGER:
+Night Gnomes are not known to be deadly to humans, but those who suffer from heart conditions should consider wearing sleeping masks to prevent being startled by their presence.
+[피해]
+
+
+SOLUTION:
+Night Gnomes will move on to other homes if they become bored or restless by your inhabitants' sleeping activites.
+There is no guarantee, however, that they will become bored by you if they find your sleep sufficiently entertaining.
+[대응]
+
+
+Client: -

@@ -1,0 +1,20 @@
+DESCRIPTION:
+Attic Gnomes are a subspecies of gnome known to nest in attics and ceilings.
+Homeowners infested with Attic Gnomes will often report a knocking or rapping sound coming from their ceilings, or a surplus of dust coming out of their ventilation systems.
+[설명]
+
+
+DANGER:
+Attic Gnomes' feeding habits can often be a boon to homeowners, as they consume dust, cobwebs and household pests such as spiders in large quantities.
+However, when frightened, they will violently expel their meals which can send large quantities of dust particulates into the air, causing air quality issues in the household.
+They are very easily frightened.
+[피해]
+
+
+SOLUTION:
+To remove an Attic Gnome from the household, it is recommended to dust and clean your attics and ceilings regularly, as to avoid giving it a source of food.
+This will also prevent other Attic Gnomes from nesting in your home.
+[대응]
+
+
+Client: -

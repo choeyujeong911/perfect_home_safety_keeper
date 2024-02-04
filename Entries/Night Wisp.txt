@@ -1,0 +1,19 @@
+DESCRIPTION:
+Night Wisps are a subspecies of wisp in the form of bright, floating lights.
+They are known to hover outside windows at night while whispering promises of wealth and good fortune.
+[설명]
+
+
+DANGER:
+Night Wisps are not dangerous to humans unless listened to.
+Refrain from listening to their whispers and following their directions.
+[피해]
+
+
+SOLUTION:
+Night Wisps will move on to other homes after a week or so if they are ignored consistently.
+It is advised to drown out their whispers with music or wearing sleeping masks to prevent sleep disruption.
+[대응]
+
+
+Client: -

@@ -1,0 +1,20 @@
+DESCRIPTION:
+Laundry Gnomes are a subspecies of gnome with thick, fiber-like fur.
+They can fold their bodies into various shaped and often resemble dirty towels.
+Homeowners with Laundry Gnomes often report loud rattling or banging sounds coming from their washing machine, and missing socks.
+[설명]
+
+
+DANGER:
+Laundry Gnomes pose no direct threat to humans, though their lifestyles often lead to broken washing machines or dryers, which can occasionally cause small floods.
+Water damage can lead to further problems in a home, and as such Laundry Gnomes should not be left to their own devices.
+[피해]
+
+
+SOLUTION:
+Laundry Gnomes will move on from a home if they are no longer permitted to enter a washing machine.
+Great care should be taken to inspect each and every piece of laundry before washing.
+[대응]
+
+
+Client: -

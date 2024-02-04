@@ -1,0 +1,18 @@
+DESCRIPTION:
+Feasts are mid-to-large sized piles of various edible food substances, frequently including flour, cornmeal, and various species of fungi.
+They are known to appear near eating areas of the home.
+[설명]
+
+
+DANGER:
+Feasts are not dangerous if consumed, but if left untouched they can provoke more dangerous activity or else its continued presence can attract other household pests such as cockroaches of carpenter ants.
+[피해]
+
+
+SOLUTION:
+Feasts are a sign of a hospital presence, and as such should be consumed immediately once sighted to prevent provoking or offending the gifter.
+For maximum assured safety, all members of the home should partake in the Feast.
+[대응]
+
+
+Client: -

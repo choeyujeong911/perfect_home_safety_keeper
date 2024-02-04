@@ -1,0 +1,18 @@
+DESCRIPTION:
+Fae Flu is a rare and dangerous disease commonly spread by household fae.
+Symptoms of Fae Flu include headaches, fever, eye discoloration, seeds taking root in skin pores, and blooming.
+[설명]
+
+
+DANGER:
+Fae Flu is rarely fatal, but it can have long lasting effects on the lifetime health of an infected human.
+Long-term symptoms commonly include dizziness, fatigue, mono-colored vision, deliriousness, and endless dreams.
+[피해]
+
+
+SOLUTION:
+There is no cure for Fae Flu, however one can take precautions against it by keeping a clean, fae-free home.
+[대응]
+
+
+Client: -

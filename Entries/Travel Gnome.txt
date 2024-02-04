@@ -1,0 +1,20 @@
+DESCRIPTION:
+Travel Gnomes are a highly invasive subspecies of gnome that are known to stow away inside the luggage of unsuspecting travelers to introduce themselves to new households.
+They are found most commonly in highly forested areas of the globe.
+[설명]
+
+
+DANGER:
+Travel Gnomes can affect the household in various ways.
+They will often create expansive gardens inside their new homes, leaving soil, plants and common outdoor pests in their wake.
+These gardens, in addition to introducing a varitey of dangerous pests, can also create foundational problems in a home if they coutinue to grow unabated.
+[피해]
+
+
+SOLUTION:
+Spraying pesticides and weed killer in the home can deter a Travel Gnome's gardening prospects, at which point it will wait for a new opportunity to travel to a better location.
+To encourage a Travel Gnome to relocate, one can invite others to stay at their household and create new opportunities for the Travel Gnome to stow away in visitors' luggage.
+[대응]
+
+
+Client: -
