@@ -1,3 +1,4 @@
+# https://horrorgamenews.com/home-safety-hotline-answers/
 class Clients:
     def __init__(self):
         # DICT { client's name: hazard }
