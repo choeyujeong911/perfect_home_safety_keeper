@@ -1,0 +1,19 @@
+DESCRIPTION:
+Rain Nymphs are a subspecies of Nymph that are most active during rain storms.
+They are faint humanoids with a glow in their eyes that often appear near windows and doors, asking to be let inside.
+Homeowners afficted with Rain Nymphs often report flooding.
+[설명]
+
+
+DANGER:
+The floods Rain Nymphs cause can lead to water damage, which can be both costly and dangerous to a home.
+[피해]
+
+
+SOLUTION:
+Rain Nymphs are very preventable, in that their pleas to be let inside can simply be ignored.
+It is advised to stay away from doors and windows during rain storms, to avoid having to endure a Rain Nymph's various temptations and threats.
+[대응]
+
+
+Client: -

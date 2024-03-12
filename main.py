@@ -19,7 +19,7 @@ class Clients:
                              'Phil': 'Fae Flu',
                              'May': 'False Artifact',
                              'Ash': 'False Beet',
-                             'Pamela': 'False Plant',
+                             'Pamela': 'False Flower',
                              'Albert': 'Floor Roots',
                              'Ashley': 'Fracture Hobb',
                              'Peter': 'Frozen Pipes',

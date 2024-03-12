@@ -1,0 +1,21 @@
+DESCRIPTION:
+Dream Weavers are large, spider-like creatures known to weave dreams into reality.
+They also are known to cause nearby humans to only dream about everything being covered in webs.
+They will only move into a household if no other spiders are present.
+[설명]
+
+
+DANGER:
+Dream Weavers are parasitic in nature, and feed off the dreams of humans while they sleep.
+While this does not cause any direct harm to humans, it can lead to increased anxiety, and the large webs they weave can often trap dust, pets, and children, causing further complications.
+[피해]
+
+
+SOLUTION:
+To remove a Dream Weaver from a household, homeowners should refrain from sleeping for as long as possible, in order to starve the creature and encourage it to find a new home.
+Dream Weavers will often attempt to induce sleep by ensnaring homeowners and injecting them with a sleep-inducing venom.
+Do not let them do this.
+[대응]
+
+
+Client: -

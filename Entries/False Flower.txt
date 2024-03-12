@@ -1,0 +1,21 @@
+DESCRIPTION:
+False Flowers are long, slender creatures that vaguely resemble common house plants.
+They are known to take root in indoor potted plants, disguising themselves among the flowers.
+Homeowners often report hearing faint singing.
+[설명]
+
+
+DANGER:
+False Flowers are harmless if left to their own devices.
+However, if homeowners attempt to disrupt or remove them they will often lash out by spraying a toxic chemical known to cause blindness or loss of sight.
+[피해]
+
+
+SOLUTION:
+False Flowers are not to be disturbed once they have taken root.
+Water regularly, and try not to notice their persence.
+Ignore their singing.
+[대응]
+
+
+Client: Pamela

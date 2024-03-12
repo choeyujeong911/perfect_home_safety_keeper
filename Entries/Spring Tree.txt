@@ -1,0 +1,22 @@
+DESCRIPTION:
+Spring Trees are a rapidly growing tree-like organism that takes root in a human body.
+They are known to cause structural damage to a home as they continue to grow, generally reaching their full size in a matter of days.
+They are known to be caused by the touch of a Spriggan.
+[설명]
+
+
+DANGER:
+Spring Trees are incredibly deadly to those infected, and will result in death once they have reached a certain size.
+Anyone near a Spring Tree while it is growing in an indoor location is also at risk of injury or death from the structural damage that will occur as it grows.
+[피해]
+
+
+SOLUTION:
+There is no cure for a Sprint Tree.
+The infected individual should be quarantined while any others occupying the household should vacate the premises immediately.
+Do not touch the infected person of the black substance that leaks from them under any circumstance.
+Begin looking for a new home, and arrange any funeral service as needed for the affected individual.
+[대응]
+
+
+Client: Patrice

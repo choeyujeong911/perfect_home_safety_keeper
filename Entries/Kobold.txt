@@ -1,0 +1,20 @@
+DESCRIPTION:
+Kobolds are 5 foot tall humanoid creatures with dog-like faces that are known to burrow into dark rooms or storage closets and make them their home.
+Homeowners infested with Kobolds will sometimes report broken floorboards.
+[설명]
+
+
+DANGER:
+Kobolds are harmless to human until they are discovered, at which point they will often lash out violently to protect their home, causing injury or even death.
+If discovered, Kobolds will attempt to lure humans into their space by poking their dog-like heads out from behind corners and whimpering.
+Do not ever enter a Kobold's domain.
+[피해]
+
+
+SOLUTION:
+One should not attempt to remove a Kobold from their home.
+It is strongly advised to hire professionals, and utilize HSH's Pest Removal Service.
+[대응]
+
+
+Client: -

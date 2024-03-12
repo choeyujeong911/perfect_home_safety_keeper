@@ -1,0 +1,19 @@
+DESCRIPTION:
+Spring Vines are rapidly growing vines that are known to quickly consume a house and block off exits.
+They are often a sign that a Spriggan has been provoked.
+[설명]
+
+
+DANGER:
+Spring Vines are not dangerous on their own, and can be cut through with common gardening tools.
+However, their tendency to block exits can create struggles when needing to exit the house in a hurry, such in the case of floods, fires, or a Spriggan in pursuit.
+[피해]
+
+
+SOLUTION:
+Spring Vines will continue to grow so long as the Spriggan that made them desires it.
+It is advised to vacate and re-home as soon as possible.
+[대응]
+
+
+Client: -
