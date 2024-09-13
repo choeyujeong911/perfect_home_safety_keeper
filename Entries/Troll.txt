@@ -1,0 +1,21 @@
+DESCRIPTION:
+Troll are giant, 12 ft tall nocturnal creatures that normally are not seen in the home.
+However, during the winter they will deflate their bodies in order to fit inside homes and steal warm materials such as blankets or articles of clothing.
+Homeowners infested with a Troll will frequently report missing clothes, or claim to hear the shrill sounds of air escaping in the middle of the night.
+[설명]
+
+
+DANGER:
+Trolls are very dangerous to humans when they are startled, thanks to their ability to inflate their bodies to their full height of 12 feet in a matter of seconds.
+Their skin, despite its flexibility, is incredibly durable and will smash through the ceilings of most homes when fully inflated, causing property damage and injury to anyone in the vicinity.
+Do not ever approach a Troll.
+[피해]
+
+
+SOLUTION:
+An active Troll will leave by morning once it has secured its bounty.
+It is recommended to install repelling fixtures such as UV lights to prevent future break-ins.
+[대응]
+
+
+Client: Edward

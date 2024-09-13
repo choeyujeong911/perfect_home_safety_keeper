@@ -1,0 +1,19 @@
+DESCRIPTION:
+Varlock Remnants are a residual presence often left behind by former Warlocks, most commonly inhabiting older households, castles, or underground dwellings.
+Homeowners experiencing Warlock Remnants often report objects moving on their own, the sound of hostile warning whispers, or sighting bearded figures in reflective surfaces.
+[설명]
+
+
+DANGER:
+Warlock Remnants, while a hostile presence, are mere echoes of their former selves, and are generally harmless.
+Their ability to manipulate small household objects can prove hazardous to less cautious homeowners, however.
+[피해]
+
+
+SOLUTION:
+Homeowners can purge the remnant from their home with the use of a Seelie Stone, but the journey to retrieve one is both long and perilous, and not recommended.
+If a Warlock Remnant proves sufficiently hazardous or inconvenient, it is highly recommended for homeowners to simply relocate.
+[대응]
+
+
+Client: -

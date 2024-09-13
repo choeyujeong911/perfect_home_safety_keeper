@@ -1,0 +1,23 @@
+DESCRIPTION:
+Spriggans are small green humanoids with leaf-like coatings on their bodies.
+They are seen rarely in households and reside primarily inside trees.
+They are known to act violently upon homeowners when provoked, however.
+Homeowners affected by Spriggans commonly report rapid vine growth in and around their homes, and the feeling that the trees are watching them.
+[설명]
+
+
+DANGER:
+Spriggans are incredibly dangerous to humans when provoked, and physical contact with one will result in the growth of a Sprig Tree within the affected individual.
+[피해]
+
+
+SOLUTION:
+Spriggans cannot be persuaded to leave the home once provoked, however one can take precautions to prevent provoking a Spriggan.
+Refrain from removing trees, flowers, or weeds on your property.
+Do not ever kill or hunt wildlife within view of your home.
+Do not eat any wild fruit or vegetable that may grow on your property.
+Consider making offers of water each night, left in a clean dish on your porch.
+[대응]
+
+
+Client: Howard

@@ -1,0 +1,20 @@
+DESCRIPTION:
+Pookas are shapeless creatures that commonly inhabit homes in the shape and likeness of a household pet.
+They are known for their tendency to replace common pets such as dogs or cats, and live in their place to watch homeowners eat and sleep.
+Homeowners with Pookas frequently report unusual or frightening pet behavior.
+[설명]
+
+
+DANGER:
+Pookas are relatively harmless to humans, but the discarded bodies of household pets they leave behind can over time create other pest and disease hazards within the home.
+A foul smell signifies decay, and the discarded body should be found and removed immediately.
+[피해]
+
+
+SOLUTION:
+Pookas can be discouraged to leave a home by not drawing attention to their activities.
+Pookas thrive on the attention they receive from frightened homeowners, so refrain from screaming or yelling when surprised by them, and make attempts to ignore their presence whenever possible.
+[대응]
+
+
+Client: Rachael
